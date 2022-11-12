@@ -173,7 +173,7 @@ try:
         host="localhost",
         port=3306,
         user='root',
-        password='26071986MaX',
+        password='###########',         #########################    Enter You're Password
         database='Museum',
         cursorclass=pymysql.cursors.DictCursor
     )
