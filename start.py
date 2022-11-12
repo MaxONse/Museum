@@ -5,7 +5,7 @@ try:
         host="localhost",
         port=3306,
         user='root',
-        password='26071986MaX',    #########################    Enter You're Password
+        password='################',    #########################    Enter You're Password
         database='Museum',
         cursorclass=pymysql.cursors.DictCursor
     )
